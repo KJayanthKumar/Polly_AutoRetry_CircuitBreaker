@@ -1,0 +1,17 @@
+C:\Learning\ASP.NETCore\Polly.Demo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Learning\ASP.NETCore\Polly.Demo\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Learning\ASP.NETCore\Polly.Demo\bin\Debug\netcoreapp2.1\Polly.Demo.deps.json
+C:\Learning\ASP.NETCore\Polly.Demo\bin\Debug\netcoreapp2.1\Polly.Demo.runtimeconfig.json
+C:\Learning\ASP.NETCore\Polly.Demo\bin\Debug\netcoreapp2.1\Polly.Demo.runtimeconfig.dev.json
+C:\Learning\ASP.NETCore\Polly.Demo\bin\Debug\netcoreapp2.1\Polly.Demo.dll
+C:\Learning\ASP.NETCore\Polly.Demo\bin\Debug\netcoreapp2.1\Polly.Demo.pdb
+C:\Learning\ASP.NETCore\Polly.Demo\obj\Debug\netcoreapp2.1\Polly.Demo.csprojAssemblyReference.cache
+C:\Learning\ASP.NETCore\Polly.Demo\obj\Debug\netcoreapp2.1\Polly.Demo.AssemblyInfoInputs.cache
+C:\Learning\ASP.NETCore\Polly.Demo\obj\Debug\netcoreapp2.1\Polly.Demo.AssemblyInfo.cs
+C:\Learning\ASP.NETCore\Polly.Demo\obj\Debug\netcoreapp2.1\Polly.Demo.csproj.CoreCompileInputs.cache
+C:\Learning\ASP.NETCore\Polly.Demo\obj\Debug\netcoreapp2.1\Polly.Demo.RazorAssemblyInfo.cache
+C:\Learning\ASP.NETCore\Polly.Demo\obj\Debug\netcoreapp2.1\Polly.Demo.RazorAssemblyInfo.cs
+C:\Learning\ASP.NETCore\Polly.Demo\obj\Debug\netcoreapp2.1\Polly.Demo.RazorTargetAssemblyInfo.cache
+C:\Learning\ASP.NETCore\Polly.Demo\obj\Debug\netcoreapp2.1\Polly.Demo.dll
+C:\Learning\ASP.NETCore\Polly.Demo\obj\Debug\netcoreapp2.1\Polly.Demo.pdb
+C:\Learning\ASP.NETCore\Polly.Demo\obj\Debug\netcoreapp2.1\Polly.Demo.genruntimeconfig.cache

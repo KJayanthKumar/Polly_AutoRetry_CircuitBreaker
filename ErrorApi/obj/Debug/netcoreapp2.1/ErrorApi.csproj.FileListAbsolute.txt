@@ -1,0 +1,17 @@
+C:\Learning\ASP.NETCore\ErrorApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Learning\ASP.NETCore\ErrorApi\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Learning\ASP.NETCore\ErrorApi\bin\Debug\netcoreapp2.1\ErrorApi.deps.json
+C:\Learning\ASP.NETCore\ErrorApi\bin\Debug\netcoreapp2.1\ErrorApi.runtimeconfig.json
+C:\Learning\ASP.NETCore\ErrorApi\bin\Debug\netcoreapp2.1\ErrorApi.runtimeconfig.dev.json
+C:\Learning\ASP.NETCore\ErrorApi\bin\Debug\netcoreapp2.1\ErrorApi.dll
+C:\Learning\ASP.NETCore\ErrorApi\bin\Debug\netcoreapp2.1\ErrorApi.pdb
+C:\Learning\ASP.NETCore\ErrorApi\obj\Debug\netcoreapp2.1\ErrorApi.csprojAssemblyReference.cache
+C:\Learning\ASP.NETCore\ErrorApi\obj\Debug\netcoreapp2.1\ErrorApi.AssemblyInfoInputs.cache
+C:\Learning\ASP.NETCore\ErrorApi\obj\Debug\netcoreapp2.1\ErrorApi.AssemblyInfo.cs
+C:\Learning\ASP.NETCore\ErrorApi\obj\Debug\netcoreapp2.1\ErrorApi.csproj.CoreCompileInputs.cache
+C:\Learning\ASP.NETCore\ErrorApi\obj\Debug\netcoreapp2.1\ErrorApi.RazorAssemblyInfo.cache
+C:\Learning\ASP.NETCore\ErrorApi\obj\Debug\netcoreapp2.1\ErrorApi.RazorAssemblyInfo.cs
+C:\Learning\ASP.NETCore\ErrorApi\obj\Debug\netcoreapp2.1\ErrorApi.RazorTargetAssemblyInfo.cache
+C:\Learning\ASP.NETCore\ErrorApi\obj\Debug\netcoreapp2.1\ErrorApi.dll
+C:\Learning\ASP.NETCore\ErrorApi\obj\Debug\netcoreapp2.1\ErrorApi.pdb
+C:\Learning\ASP.NETCore\ErrorApi\obj\Debug\netcoreapp2.1\ErrorApi.genruntimeconfig.cache
